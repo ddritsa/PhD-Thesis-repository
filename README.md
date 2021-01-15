@@ -4,3 +4,5 @@ Repository of my thesis 'Spatiotemporal dynamics of urban health: Physiological 
 Author: Dimitra Dritsa 
 
 Sumbitted in January 2021.
+
+Contact me for any queries at demdritsa@gmail.com
