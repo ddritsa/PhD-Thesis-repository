@@ -1,0 +1,9 @@
+
+The spatial database has to be created in the beginning of the project, using the functions 'Building the spatial database - Step 1-'
+(complete all the steps 1 to 4)
+
+The other steps can only be applied after that, for each participant.
+They have to be completed in a row:
+-first, 'Step 1 - Process EDA, accelerometer and skin temperature data',
+-then 'Step 2 - Collect and process data from strava--HR, speed, altitude data',
+-then'Step 3 - Physiological, movement and contextual data fusion'. 
