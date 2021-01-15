@@ -5,7 +5,7 @@ Author: Dimitra Dritsa
 
 Sumbitted in January 2021.
 
-Contact me for any queries at demdritsa@gmail.com
+Contact: demdritsa@gmail.com
 
 -----------------------
 #### Thesis abstract
