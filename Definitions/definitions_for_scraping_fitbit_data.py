@@ -7,7 +7,6 @@
 # 
 # (Email+password that are used in Strava
 # 
-# "df = scrape_movement_data("ETH19.3752.14725065@hotmail.com", "fO^=?/q,", 14725065)"
 
 # In[3]:
 
