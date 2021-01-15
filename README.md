@@ -8,7 +8,7 @@ Sumbitted in January 2021.
 Contact me for any queries at demdritsa@gmail.com
 
 -----------------------
-
+#### Thesis abstract
 The starting point for this research was the emergence of physiological data as a source of information that can help us understand how our interactions with the urban environment affect the human body. There is significant potential in extending existing methods for physiological data analysis in the urban domain in a way that maximises the benefits at the individual and the city scale. Physiological data could be used to identify the least stressful route, but there is currently a lack of research on their incorporation in pathfinding studies. The area of prediction of physiological responses during outdoor walking has also been understudied. 
 
 This study aims to address these issues by designing a methodology for collection and analysis of physiological data in the urban space. The methodology incorporates three components: (1) the collection and analysis of physiological data at an individual level, (2) the hotspot analysis of physiological responses at a city scale, and (3) the utilisation of the collected data in models for prediction of physiological responses, and pathfinding methods for the identification of the least stressful route. The methods and algorithms for each component of the methodology are calibrated using data collected in Sydney from experiments organised by the author, and publicly available data from a previous study conducted in Zürich*. 
